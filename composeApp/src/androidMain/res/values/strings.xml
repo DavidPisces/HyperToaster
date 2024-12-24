@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HyperToaster</string>
+    <string name="string_system_info_subtitle">System Info</string>
+    <string name="string_strong_toast_subtitle">Strong toast debug</string>
+    <string name="string_advanced_settings_subtitle">Advanced Settings</string>
+    <string name="string_android_version">Android Version</string>
+    <string name="string_os_version">OS Version</string>
+    <string name="string_send_strong_toast_title">Send strong toast</string>
+    <string name="string_send_strong_toast_content">Send a strong toast with white font.</string>
+    <string name="string_strong_toast_random_color_title">Random color toast</string>
+    <string name="string_strong_toast_random_color_content">Send a strong toast but random color.</string>
+    <string name="string_strong_toast_without_text_title">Toast without title</string>
+    <string name="string_strong_toast_without_text_content">Send a strong toast but without content.</string>
+    <string name="string_sdk_version">SDK Version</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HyperToaster</string>
+    <string name="string_system_info_subtitle">系统信息</string>
+    <string name="string_strong_toast_subtitle">灵动额头</string>
+    <string name="string_advanced_settings_subtitle">高级设置</string>
+    <string name="string_android_version">Android 版本</string>
+    <string name="string_os_version">OS 版本</string>
+    <string name="string_send_strong_toast_title">一个灵动额头</string>
+    <string name="string_send_strong_toast_content">发送一个白色字体的灵动额头</string>
+    <string name="string_strong_toast_random_color_title">随机颜色额头</string>
+    <string name="string_strong_toast_random_color_content">灵动额头，但是颜色随机</string>
+    <string name="string_strong_toast_without_text_title">空白额头</string>
+    <string name="string_strong_toast_without_text_content">发送一个空的灵动额头</string>
+    <string name="string_sdk_version">SDK 版本</string>
+</resources>
